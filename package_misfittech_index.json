@@ -1,11 +1,12 @@
 {
   "packages": [
     {
+      "name": "MisfitTech",
       "maintainer": "MisfitTech",
+      "websiteURL": "https://github.com/NickQian025/d21g",
       "help": {
         "online": "http://MisfitTech.net"
       },
-      "websiteURL": "http://MisfitTech.net",
       "platforms": [
             {
           "category": "MisfitTech",
