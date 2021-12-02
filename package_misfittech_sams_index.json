@@ -10,7 +10,7 @@
             {
           "category": "MisfitTech",
           "name": "MisfitTech SAMS Boards",
-          "url": "https://github.com/Misfittech/arduino-board-index/raw/master/boards/misfittech_sams-0.0.1.tar.bz2",
+          "url": "https://github.com/NickQian025/d21g/blob/main/misfittech_sams-0.0.1.tar.bz2",
           "checksum": "SHA-256:9edda5145b8ffd21cb9e1e97d8f5b58caed8a356a09a5b3de464a5dc151ad62b",
           "help": {
             "online": "http://misfittech.net"
